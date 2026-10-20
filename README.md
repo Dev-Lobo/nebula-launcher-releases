@@ -2,8 +2,6 @@
 
 Nebula es un launcher para Minecraft: Java Edition, para Windows y Linux. Desde aquí puedes iniciar sesión, crear instancias de juego, instalar mods y entrar a tus servidores favoritos.
 
-Esta guía explica cómo moverte por el programa. Para las funciones con más detalle, cómo se compila y cómo se publican las versiones, consulta la [documentación técnica](TECNICO.md).
-
 ---
 
 ## 1. Primeros pasos
